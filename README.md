@@ -1,7 +1,7 @@
 # Hi there, I'm Chonz 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Blockchain+%26+Web3+Specialist;5%2B+Years+Experience;Python+%26+JavaScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;Blockchain+%26+Web3+Specialist;8%2B+Years+Experience;Python+%26+JavaScript+Expert" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
