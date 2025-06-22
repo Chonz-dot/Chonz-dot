@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-> **Senior Full-Stack Engineer** with **8+ years** of professional experience specializing in **Blockchain & Web3** development. Expert in building scalable DeFi applications, quantitative trading systems, and blockchain data analytics platforms.
+> **Senior Full-Stack Engineer** with **6+ years** of professional experience specializing in **Blockchain & Web3** development. Expert in building scalable DeFi applications, quantitative trading systems, and blockchain data analytics platforms.
 
 - 🏗️ **Currently:** Building advanced blockchain monitoring and quantitative trading infrastructure
 - 💰 **Expertise:** Smart contracts, DeFi protocols, algorithmic trading, blockchain analytics
@@ -17,7 +17,7 @@
 
 ```python
 const chonz = {
-  experience: "8+ years",
+  experience: "6+ years",
   specialization: ["Blockchain", "DeFi", "QuantTrading", "DataAnalysis"],
   expertise: {
     backend: "Python, Node.js, FastAPI, SQLAlchemy",
@@ -101,7 +101,7 @@ const chonz = {
 
 ## 🎖️ Professional Highlights
 
-- 🏗️ **8+ Years** of full-stack development experience in blockchain and fintech
+- 🏗️ **6+ Years** of full-stack development experience in blockchain and fintech
 - 🔗 **3+ Years** specialized in blockchain and Web3 technologies  
 - 💡 **Expert** in smart contract development and DeFi protocol design
 - 📊 **Quantitative Trading** specialist with proven algorithmic strategies
