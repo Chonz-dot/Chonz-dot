@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-> **Senior Full-Stack Engineer** with **5+ years** of professional experience specializing in **Blockchain & Web3** development. Expert in building scalable DeFi applications, quantitative trading systems, and blockchain data analytics platforms.
+> **Senior Full-Stack Engineer** with **8+ years** of professional experience specializing in **Blockchain & Web3** development. Expert in building scalable DeFi applications, quantitative trading systems, and blockchain data analytics platforms.
 
 - 🏗️ **Currently:** Building advanced blockchain monitoring and quantitative trading infrastructure
 - 💰 **Expertise:** Smart contracts, DeFi protocols, algorithmic trading, blockchain analytics
