@@ -17,7 +17,7 @@
 
 ```python
 const chonz = {
-  experience: "5+ years",
+  experience: "8+ years",
   specialization: ["Blockchain", "DeFi", "QuantTrading", "DataAnalysis"],
   expertise: {
     backend: "Python, Node.js, FastAPI, SQLAlchemy",
